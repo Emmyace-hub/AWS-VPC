@@ -1,5 +1,5 @@
 # AWS-VPC
-setting up and configuring VPC infrastructures, including gateways and routing table on the AWS VPC
+setting up and configuring VPC infrastructures, including gateways, routing table on the AWS VPC and establishing connection between VPC through VPC peering.
 
 
 # Create new repository named AWS-VPC as shown in the diagram below:
